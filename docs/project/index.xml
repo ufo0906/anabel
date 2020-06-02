@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Наши проекты on Студия флористики Анабель</title>
+    <link>https://anabel-decor.ru/project/</link>
+    <description>Recent content in Наши проекты on Студия флористики Анабель</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://anabel-decor.ru/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Дизайн свадьбы Ивановы</title>
+      <link>https://anabel-decor.ru/project/ivanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/ivanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Дизайн свадьбы Ивановы второй раз</title>
+      <link>https://anabel-decor.ru/project/rio-furniture-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/rio-furniture-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Дизайн свадьбы Ивановы трутий</title>
+      <link>https://anabel-decor.ru/project/rio-furniture-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/rio-furniture-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Дизайн свадьбы Петровы</title>
+      <link>https://anabel-decor.ru/project/peyrov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/peyrov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Новый год Ивановы</title>
+      <link>https://anabel-decor.ru/project/ny2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/ny2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Новый год Сидоровы</title>
+      <link>https://anabel-decor.ru/project/ny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anabel-decor.ru/project/ny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
