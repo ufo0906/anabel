@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Студия флористики Анабель</title>
-    <link>https://anabel-decor.ru/service/</link>
+    <link>https://ufo0906.github.io/anabel/service/</link>
     <description>Recent content in Services on Студия флористики Анабель</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 09 Apr 2020 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anabel-decor.ru/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ufo0906.github.io/anabel/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Свадьбы</title>
-      <link>https://anabel-decor.ru/service/service1/</link>
+      <link>https://ufo0906.github.io/anabel/service/service1/</link>
       <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://anabel-decor.ru/service/service1/</guid>
+      <guid>https://ufo0906.github.io/anabel/service/service1/</guid>
       <description>Красочные, неповторимые! Очень </description>
     </item>
     
     <item>
       <title>Международные проекты</title>
-      <link>https://anabel-decor.ru/service/service4/</link>
+      <link>https://ufo0906.github.io/anabel/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anabel-decor.ru/service/service4/</guid>
+      <guid>https://ufo0906.github.io/anabel/service/service4/</guid>
       <description>&lt;p&gt;Международные проекты в РФ и за ее предалами.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Проекты</title>
-      <link>https://anabel-decor.ru/service/service3/</link>
+      <link>https://ufo0906.github.io/anabel/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anabel-decor.ru/service/service3/</guid>
+      <guid>https://ufo0906.github.io/anabel/service/service3/</guid>
       <description>&lt;p&gt;И да, мы их тоже делаем&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Аренда</title>
-      <link>https://anabel-decor.ru/service/service2/</link>
+      <link>https://ufo0906.github.io/anabel/service/service2/</link>
       <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://anabel-decor.ru/service/service2/</guid>
+      <guid>https://ufo0906.github.io/anabel/service/service2/</guid>
       <description>Красочные, неповторимые! Очень </description>
     </item>
     
