@@ -1,6 +1,6 @@
-baseURL = "https://anabel-decor.ru"
-defaultContentLanguage = "ru"
-languageCode = "ru-ru"
+baseURL = "https://ufo0906.github.io/anabel/"
+defaultContentLanguage = "en"
+
 title = "Студия флористики Анабель"
 theme = "anabel-decor"
 publishDir = "docs"
@@ -71,7 +71,7 @@ link = "plugins/shuffle/shuffle.min.js"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/anabeldecor"
+	url = "https://www.facebook.com/anabeldecor/"
     icon = "fab fa-facebook-square"
     footer = true
     sharethis = true
@@ -84,9 +84,9 @@ link = "plugins/shuffle/shuffle.min.js"
     sharethis = false
     network = ""
 [[params.social]]
-	a-vk = "https://vk.com/anabel_decor"
+	a-vk = "https://vk.com/anabel_decor/"
 	title = "vk"
-	url = "https://vk.com/anabel_decor"
+	url = "https://vk.com/anabel_decor/"
     icon = "images/vk.png"
     footer = true
     sharethis = false
@@ -98,3 +98,4 @@ link = "plugins/shuffle/shuffle.min.js"
     footer = false
     sharethis = true
     network = "email"
+theme = "anabel-decor"
