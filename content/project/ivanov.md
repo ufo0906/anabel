@@ -20,7 +20,7 @@ information:
 
 
 
-![project](/images/Ivanov/2.jpeg)
+![project](/anabel/images/Ivanov/2.jpeg)
 ![project](/images/Ivanov/3.jpeg)
 ![project](/images/Ivanov/4.jpeg)
 ![project](/images/Ivanov/5.jpeg)
