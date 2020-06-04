@@ -61,7 +61,7 @@ link = "plugins/shuffle/shuffle.min.js"
     url = "/buket/"
     weight = 4
 [params.disqus]
-    site = "https://anabel-decor.ru/"
+    site = "https://ufo0906.github.io/anabel/"
 
 [params.sharethis]
     property = "123456789012345678901234"
