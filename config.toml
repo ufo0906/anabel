@@ -1,6 +1,6 @@
-baseURL = "https://anabel-decor.ru"
+baseURL = "https://ufo0906.github.io/anabel/"
 defaultContentLanguage = "en"
-languageCode = "en-us"
+
 title = "Студия флористики Анабель"
 theme = "anabel-decor"
 publishDir = "docs"
