@@ -1,8 +1,0 @@
-############################# About ###################################
-about:
-  enable : true
-  title :
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Мероприятия "под ключ"
-    content : Мы поможем вам реализовать ваши идеи. И создадим волшебную атмосфера на вашем событии! Доверьтесь профессионалам
