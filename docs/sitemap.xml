@@ -3,58 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/service/service1/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-8/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/service/service4/</loc>
+    <loc>https://ufo0906.github.io/anabel/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/service/service3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/service/service2/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/buket/buket/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/post/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/service/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/post/kak-mi-delaem/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+    <loc>https://ufo0906.github.io/anabel/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://ufo0906.github.io/anabel/</loc>
-    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/post/world-project/</loc>
-    <lastmod>2019-04-08T12:00:00+00:00</lastmod>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/about_as/</loc>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/buket/</loc>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-6/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/blog/simple-blog-post-7/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/author/</loc>
   </url>
   
   <url>
@@ -62,51 +70,11 @@
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://ufo0906.github.io/anabel/tags/</loc>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/project/ivanov/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/rio-furniture-5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/rio-furniture-6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/peyrov/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/about_as/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/contact/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/ny2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ufo0906.github.io/anabel/project/ny/</loc>
+    <loc>https://ufo0906.github.io/anabel/author/mark-dinn/</loc>
   </url>
   
 </urlset>

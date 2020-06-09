@@ -1,33 +1,27 @@
-{{- if .Site.Data.homepage.banner.enable }}
-<!-- hero area -->
-<section class="section">
-	<div class="container">
-		<div class="row">
-			{{- with .Site.Data.homepage.banner }}
-			<div class="col-md-6 text-center mb-5 mb-md-0">
-				<img class="img-fluid" src="{{ .image | absURL }}" alt="">
-			</div>
-			<div class="col-md-6 align-self-center text-center text-md-left">
-				<div class="block">
-					<h1 class="font-weight-bold mb-4 font-size-60">{{ .title | markdownify }}</h1>
-					<p class="mb-4">{{ .content | markdownify }}</p>
-					{{- end }}
-					<button class="snipcart-add-item btn btn-main" 
-					  {{with .Site.Data.homepage.product }} data-item-id="{{ .name | urlize }}__{{ .price }}"
-						data-item-name="{{ .name }}"
-						data-item-image="{{ .image | absURL }}"
-						data-item-price="{{ .price }}" data-item-url="{{ .Permalink }}" 
-						{{ if .colors }}
-						data-item-custom1-name="Choose Color"
-						data-item-custom1-options="{{ range $index, $element:= .colors }}{{ if eq $index 0 }}{{ . | title }}{{ else }}|{{ . | title }}{{ end }}{{ end }}"
-						{{ end }}
-						{{ if .sizes }} 
-						data-item-custom2-name="Choose Size"
-						data-item-custom2-options="{{ range $index, $element:= .sizes }}{{ if eq $index 0 }}{{ . | title }}{{ else }}|{{ . | title }}{{ end }}{{ end }}"
-						{{ end }}{{ end }}>{{ .Site.Data.homepage.banner.button }}</button>
-				</div>
-			</div>
-		</div><!-- .row close -->
-	</div><!-- .container close -->
-</section><!-- header close -->
-{{- end }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.banner.banner.enable }}
+{{ with $data.banner.banner }}
+{{"<!-- Welcome Slider-->" | safeHTML}}
+<section class="hero-area" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" src="{{ .bg_image_webp | absURL }}" />
+
+	<div class="block">
+		{{ if .icon }}
+		<div class="video-button">
+			<i class="{{ .icon }}"></i>
+		</div>
+		{{ end }}
+		<h1>{{ .title | markdownify }}</h1>
+		<p>{{ .content | markdownify }}</p>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+		{{ end }}
+		{{ end }}
+	</div>
+</section>
+{{"<!-- /Welcome Slider-->" | safeHTML}}
+{{end}}
+{{end}}

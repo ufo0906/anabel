@@ -1,158 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Студия флористики Анабель</title>
+    <title>Студия декора и флористики Анабель</title>
     <link>https://ufo0906.github.io/anabel/</link>
-    <description>Recent content on Студия флористики Анабель</description>
+    <description>Recent content on Студия декора и флористики Анабель</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Apr 2020 12:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>copyright &amp;copy; 2020 все парава защищены</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://ufo0906.github.io/anabel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Свадьбы</title>
-      <link>https://ufo0906.github.io/anabel/service/service1/</link>
-      <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
+      <title>Are You Doing the Right Way</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-8/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/service/service1/</guid>
-      <description>Красочные, неповторимые! Очень </description>
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-8/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>Международные проекты</title>
-      <link>https://ufo0906.github.io/anabel/service/service4/</link>
+      <title>How To Setup Meghna Hugo</title>
+      <link>https://ufo0906.github.io/anabel/blog/installation/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-1/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-2/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-3/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-3/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-4/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-4/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-5/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-5/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-6/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-6/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-7/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-7/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Anna Anabel</title>
+      <link>https://ufo0906.github.io/anabel/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/service/service4/</guid>
-      <description>&lt;p&gt;Международные проекты в РФ и за ее предалами.&lt;/p&gt;</description>
+      <guid>https://ufo0906.github.io/anabel/author/john-doe/</guid>
+      <description>Нужно взять интервью у матери проектов</description>
     </item>
     
     <item>
-      <title>Проекты</title>
-      <link>https://ufo0906.github.io/anabel/service/service3/</link>
+      <title>Алина</title>
+      <link>https://ufo0906.github.io/anabel/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/service/service3/</guid>
-      <description>&lt;p&gt;И да, мы их тоже делаем&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Аренда</title>
-      <link>https://ufo0906.github.io/anabel/service/service2/</link>
-      <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/service/service2/</guid>
-      <description>Красочные, неповторимые! Очень </description>
-    </item>
-    
-    <item>
-      <title>Авторские букеты от салона цветов Anabel</title>
-      <link>https://ufo0906.github.io/anabel/buket/buket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/buket/buket/</guid>
-      <description>А после приятных свадебных хлопот наша студия флористики и цветов, готова сделать для вас оригинальные авторские букеты, которые продлят эмоции и освежат чувства. Также мы не ограничиваемся свадьбами, букеты сделанные с любовью нашими руками, гармонично впишутся в любое вообще событие- большое торжество или уютный камерный вечер, или просто настроение для вашего дома. Не забывайте рабовать своих любимых и близких!
-Заказать букет можно по телефону: +7(912)63-014-63 В инстаграмм, ссылка ниже. Приходите к нам гости в студию, мы с вами обсудим ваш букет и угостим Вас чашечкой ароматного кофе.</description>
-    </item>
-    
-    <item>
-      <title>Как мы делаем свадьбы</title>
-      <link>https://ufo0906.github.io/anabel/post/kak-mi-delaem/</link>
-      <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/post/kak-mi-delaem/</guid>
-      <description>Тут нужно что-то написать людям!!!</description>
-    </item>
-    
-    <item>
-      <title>международные проекты</title>
-      <link>https://ufo0906.github.io/anabel/post/world-project/</link>
-      <pubDate>Mon, 08 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/post/world-project/</guid>
-      <description>Тут нужно что-то написать людям!!!</description>
-    </item>
-    
-    <item>
-      <title>Дизайн свадьбы Ивановы</title>
-      <link>https://ufo0906.github.io/anabel/project/ivanov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/ivanov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Дизайн свадьбы Ивановы второй раз</title>
-      <link>https://ufo0906.github.io/anabel/project/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/rio-furniture-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Дизайн свадьбы Ивановы трутий</title>
-      <link>https://ufo0906.github.io/anabel/project/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/rio-furniture-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Дизайн свадьбы Петровы</title>
-      <link>https://ufo0906.github.io/anabel/project/peyrov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/peyrov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Кто мы!</title>
-      <link>https://ufo0906.github.io/anabel/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Кто мы!</title>
-      <link>https://ufo0906.github.io/anabel/about_as/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/about_as/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Наши контакты</title>
-      <link>https://ufo0906.github.io/anabel/contact/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/contact/contact/</guid>
-      <description>Телефон: 222</description>
-    </item>
-    
-    <item>
-      <title>Новый год Ивановы</title>
-      <link>https://ufo0906.github.io/anabel/project/ny2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/ny2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Новый год Сидоровы</title>
-      <link>https://ufo0906.github.io/anabel/project/ny/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ufo0906.github.io/anabel/project/ny/</guid>
-      <description></description>
+      <guid>https://ufo0906.github.io/anabel/author/mark-dinn/</guid>
+      <description>Интервью</description>
     </item>
     
   </channel>

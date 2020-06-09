@@ -1,53 +1,32 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-<main id="main">
+{{ partial "navigation.html" . }}
 
-	<div class="container">
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <h1>{{ .Title }}</h1>
+        <ul class="list-inline mb-50">
+          <li class="list-inline-item"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.Author }}</a></li>
+          <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+        </ul>
+        <img class="img-fluid mb-50" src="{{ .Params.Image | absURL }}" alt="blog-image">
+      </div>
+      <div class="col-lg-8 offset-lg-2">
+        <div class="post-single-content">
+          {{ .Content }}
+        </div>
+        {{ if .Site.Params.post_share }}
+        {{ partial "post-share.html" . }}
+        {{ end }}
+        <!-- comments -->
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
-
- 				<article class="post">
-					<header class="entry-header">
- 						<div class="entry-meta">
-
- 						</div>
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
-					</header>
-					<div class="entry-content">
-						{{ .Content }}
-					</div>
-				</article><!-- #post-## -->
-
-			</div>
-		</div> <!-- /row post  -->
-
-        <div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="share">
-                    {{ if .Params.Share }}
-                       {{ partial "sharethis.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row share -->
-		<div class="clearfix"></div>
-
-		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="comments">
-                    {{ if .Params.Comments }}
-                       {{ partial "disqus.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row comments -->
-		<div class="clearfix"></div>
-
-	</div>	<!-- /container -->
-
-</main>
-
-{{ partial "footer.html" . }}
+{{ end }}

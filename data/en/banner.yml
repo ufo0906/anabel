@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Испытайте новую реальность"
+  content : "Мы создаем проекты любых масштабов!"
+  button:
+    enable : true
+    label : "Перейти к проектам"
+    link : "#services"

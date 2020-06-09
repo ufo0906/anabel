@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Мы агенство крутого дизайна
+  content : "Наши дизайнеры творят невороятное"
+  feature_item : 
+      # feature item loop
+    - title : Проработка проекта
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Составим и проработаем любой дизайн прокт
+      
+      # feature item loop
+    - title : Подготовка
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Изготовим любые декорации и конструкции по ранее созданному проекту
+
+      # feature item loop
+    - title : Монтаж
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Наши гераклы и супер профессионалы все смонтируют четко и в срок
+      
+      # feature item loop
+    - title : Проведение мероприятия
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Обеспечим звуковое и световое сопровождение, разработаем сценарный план мероприятия
