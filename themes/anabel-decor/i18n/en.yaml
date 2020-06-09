@@ -1,0 +1,28 @@
+- id: blogTitle
+  translation: Последние посты
+- id: readMore
+  translation: Читать дальше
+- id: viewAllPost
+  translation: Показать весь пост
+- id: share
+  translation: Поделиться
+- id: aboutAuthor
+  translation: Об авторах проектов
+- id: authorsPosts
+  translation: Пост автора проекта
+- id: all
+  translation: Все
+- id: about
+  translation: О нас
+- id: services
+  translation: Услуги
+- id: portfolio
+  translation: Портфолио
+- id: team
+  translation: Наша команда
+- id: blog
+  translation: Блог
+- id: contact
+  translation: Контакты
+- id: themefisher
+  translation: Букеты сайт

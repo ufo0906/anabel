@@ -1,0 +1,68 @@
+############################### team ############################
+team:
+  enable : true
+  title : Наша команда
+  team_member :
+    # team member loop
+    - name : Anna Anabel
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : Мать всех проектов
+      content : Я лучшая и делаю лучшее!
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Алина
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      designation : Руководитель проектов
+      content : Делает качественно и на совесть
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Саша
+      image_webp : images/team/team-3.webp
+      image : images/team/team-3.jpg
+      designation : Шев монтаж
+      content : Мастер на все руки
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Дима
+      image_webp : images/team/team-4.webp
+      image : images/team/team-4.jpg
+      designation : Шеф монтаж
+      content : Укатает все в пленку
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
