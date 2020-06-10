@@ -168,20 +168,6 @@
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ufo0906.github.io/anabel/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ufo0906.github.io/anabel/author/john-doe/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ufo0906.github.io/anabel/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,16 +196,16 @@
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/anabel/tags/</loc>
+    <loc>https://ufo0906.github.io/anabel/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ufo0906.github.io/anabel/fr/tags/"
+                href="https://ufo0906.github.io/anabel/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ufo0906.github.io/anabel/tags/"
+                href="https://ufo0906.github.io/anabel/author/john-doe/"
                 />
   </url>
   
@@ -234,6 +220,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufo0906.github.io/anabel/author/mark-dinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/anabel/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ufo0906.github.io/anabel/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ufo0906.github.io/anabel/tags/"
                 />
   </url>
   
