@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meghna</title>
-    <link>https://ufo0906.github.io/anabel/</link>
-    <description>Recent content on Meghna</description>
+    <title>Студия декора и флористики Анабель</title>
+    <link>https://ufo0906.github.io/</link>
+    <description>Recent content on Студия декора и флористики Анабель</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
+    <copyright>copyright &amp;copy; 2020 все парава защищены</copyright>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="https://ufo0906.github.io/anabel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ufo0906.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are You Doing the Right Way</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-8/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-8/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-8/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-8/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>https://ufo0906.github.io/anabel/blog/installation/</link>
+      <link>https://ufo0906.github.io/blog/installation/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/installation/</guid>
+      <guid>https://ufo0906.github.io/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-1/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-1/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-1/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-1/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-2/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-2/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-2/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-2/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-3/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-3/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-3/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-3/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-4/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-4/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-4/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-4/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-5/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-5/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-5/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-5/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-6/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-6/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-6/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-6/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
       <title>Simple Blog Post</title>
-      <link>https://ufo0906.github.io/anabel/blog/simple-blog-post-7/</link>
+      <link>https://ufo0906.github.io/blog/simple-blog-post-7/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/blog/simple-blog-post-7/</guid>
+      <guid>https://ufo0906.github.io/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://ufo0906.github.io/anabel/author/john-doe/</link>
+      <title>Anna Anabel</title>
+      <link>https://ufo0906.github.io/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://ufo0906.github.io/author/john-doe/</guid>
+      <description>Нужно взять интервью у матери проектов</description>
     </item>
     
     <item>
-      <title>Mark Dinn</title>
-      <link>https://ufo0906.github.io/anabel/author/mark-dinn/</link>
+      <title>Алина</title>
+      <link>https://ufo0906.github.io/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/anabel/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://ufo0906.github.io/author/mark-dinn/</guid>
+      <description>Интервью</description>
     </item>
     
   </channel>
