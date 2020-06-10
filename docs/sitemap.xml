@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://ufo0906.github.io/en/sitemap.xml</loc>
+	   	<loc>http://localhost:8080/anabel/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-09-12T14:51:12+06:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://ufo0906.github.io/fr/sitemap.xml</loc>
+	   	<loc>http://localhost:8080/anabel/fr/sitemap.xml</loc>
 		
 	   	<lastmod>2018-09-12T14:51:12+06:00</lastmod>
 		

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Студия декора и флористики Анабель</title>
-    <link>https://ufo0906.github.io/fr/author/</link>
+    <link>http://localhost:8080/anabel/fr/author/</link>
     <description>Recent content in Authors on Студия декора и флористики Анабель</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés</copyright>
     
-	<atom:link href="https://ufo0906.github.io/fr/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:8080/anabel/fr/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>John Doe</title>
-      <link>https://ufo0906.github.io/fr/author/john-doe/</link>
+      <link>http://localhost:8080/anabel/fr/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/fr/author/john-doe/</guid>
+      <guid>http://localhost:8080/anabel/fr/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://ufo0906.github.io/fr/author/mark-dinn/</link>
+      <link>http://localhost:8080/anabel/fr/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/fr/author/mark-dinn/</guid>
+      <guid>http://localhost:8080/anabel/fr/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
