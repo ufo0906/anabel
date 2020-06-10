@@ -1,18 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://ufo0906.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-09-12T14:51:12+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://ufo0906.github.io/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2018-09-12T14:51:12+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-3/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-4/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-5/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-6/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/blog/simple-blog-post-1/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/</loc>
+    <lastmod>2017-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/author/mark-dinn/</loc>
+  </url>
+  
+</urlset>
