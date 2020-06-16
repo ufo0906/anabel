@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ufo0906.github.io/portfolio/anna-anabel/</loc>
+    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/portfolio/</loc>
+    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/</loc>
+    <lastmod>2020-04-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ufo0906.github.io/blog/</loc>
     <lastmod>2017-09-12T12:52:36+06:00</lastmod>
   </url>
@@ -43,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/</loc>
+    <loc>https://ufo0906.github.io/portfolio/simple-blog-post-1/</loc>
     <lastmod>2017-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/author/john-doe/</loc>
+    <loc>https://ufo0906.github.io/author/anna/</loc>
   </url>
   
   <url>
@@ -64,7 +79,11 @@
   </url>
   
   <url>
-    <loc>https://ufo0906.github.io/author/mark-dinn/</loc>
+    <loc>https://ufo0906.github.io/author/alina/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ufo0906.github.io/portfolio/ivanov/</loc>
   </url>
   
 </urlset>

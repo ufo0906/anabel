@@ -1,0 +1,76 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Наши проекты
+  portfolio_item :
+    # portfolio item loop
+    - name : Дизайн тегов
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["design"]
+      content : Дизайнерские проекты
+      link : content/english/portfolio/ivanov/
+      
+    # portfolio item loop
+    - name : Садьбы
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["development"]
+      content : Свадьбы
+      link : ""
+      
+    # portfolio item loop
+    - name : Категория 3
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["design", "development"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 4
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["photography", "development"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 5
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["design"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 6
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["photography"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 7
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["development"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 8
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["design", "development"]
+      content : 
+      link : "#"
+      
+    # portfolio item loop
+    - name : Категория 9
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["design", "photography"]
+      content : 
+      link : "#"

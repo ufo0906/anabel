@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 все парава защищены</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ufo0906.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Свадьбы</title>
+      <link>https://ufo0906.github.io/portfolio/anna-anabel/</link>
+      <pubDate>Thu, 09 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://ufo0906.github.io/portfolio/anna-anabel/</guid>
+      <description>Красочные, неповторимые! Очень </description>
+    </item>
     
     <item>
       <title>Ах эта свадьба...!</title>
@@ -83,21 +92,40 @@
     </item>
     
     <item>
+      <title>Ах эта свадьба...!</title>
+      <link>https://ufo0906.github.io/portfolio/simple-blog-post-1/</link>
+      <pubDate>Tue, 12 Sep 2017 12:52:36 +0600</pubDate>
+      
+      <guid>https://ufo0906.github.io/portfolio/simple-blog-post-1/</guid>
+      <description>Этот проект в нашей памяти останется на долго)))
+Как все было Договорились, не получилось, в итоге заночь все пересогласовали и переделали.</description>
+    </item>
+    
+    <item>
       <title>Anna Anabel</title>
-      <link>https://ufo0906.github.io/author/john-doe/</link>
+      <link>https://ufo0906.github.io/author/anna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/author/john-doe/</guid>
+      <guid>https://ufo0906.github.io/author/anna/</guid>
       <description>Нужно взять интервью у матери проектов</description>
     </item>
     
     <item>
       <title>Алина</title>
-      <link>https://ufo0906.github.io/author/mark-dinn/</link>
+      <link>https://ufo0906.github.io/author/alina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ufo0906.github.io/author/mark-dinn/</guid>
+      <guid>https://ufo0906.github.io/author/alina/</guid>
       <description>Интервью</description>
+    </item>
+    
+    <item>
+      <title>Дизайн свадьбы Ивановы</title>
+      <link>https://ufo0906.github.io/portfolio/ivanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ufo0906.github.io/portfolio/ivanov/</guid>
+      <description>###Как же это было красиво </description>
     </item>
     
   </channel>
